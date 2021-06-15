@@ -1,0 +1,25 @@
+*,*::after,*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  border: none;
+  text-decoration: none;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+:root {
+  --primary-blue: #48556a;
+  --secondary-blue: #6d7f97;
+  --greyish-blue: #9eafc2;
+  --greyish-blue-light: #ecf2f8;
+}
+
+body {
+  font-size: 1.3rem;
+  font-family: 'Manrope', sans-serif;
+  background-color: var(--greyish-blue-light);
+}
+
