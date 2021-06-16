@@ -25,6 +25,7 @@ body {
 	font-family: "Manrope", sans-serif;
 	background-color: var(--greyish-blue-light);
 	font-weight: 500;
+  max-height: 100vh;
 }
 
 .article {
