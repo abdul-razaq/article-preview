@@ -29,7 +29,7 @@ body {
 }
 
 .article {
-	width: 50%;
+	/* min-width: 50%; */
 	max-width: 120rem;
 	margin: 10% auto;
 	background-color: #fff;
